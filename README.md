@@ -9,7 +9,7 @@ Some quick Jesse Faden retextures we pulled up for the Night Springs DLC.
 **Please read the instructions on how to install mod loader.**
 
 ## Installation
-Unzip your mod and copy data folder or data_pc folder or both and paste them where your Alan Wake 2 game folder is.
+Unzip your mod and copy `data` folder or `data_pc` folder or both and paste them where your Alan Wake 2 game folder is.
 
 Example: `...\Epic Games\AlanWake2\mod_folder_here`
 
